@@ -60,5 +60,10 @@ line-height: normal;
     background-color: #7ccd7f;
     height: auto;
 }
-
-
+.caixa_botao{
+    background-color: #5d9c60;
+    height: auto;
+}
+p,h1,h2{
+    display: inline-block;
+}

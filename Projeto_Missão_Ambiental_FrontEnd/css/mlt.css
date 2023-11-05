@@ -1,0 +1,64 @@
+
+.menu_principal {
+    height: 110px;
+    background: linear-gradient(180deg, #3CB441 0%, rgba(81, 193, 85, 0.00) 90%);
+}
+ .rodape{
+    display: inline-block;
+}
+.logo {
+ display: inline-block;
+}
+.missao{
+    display: inline-block;
+    color: rgba(0, 0, 0, 0.83);
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Spinnaker;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    vertical-align: middle;
+}
+.ambiental{
+    display: inline-block;
+    color: rgba(89, 80, 80, 0.83);
+    font-family: Spinnaker;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    vertical-align: middle;    
+}
+.redes_sociais {
+    display: inline-block;
+    height: 60px;
+    margin-top: 10px;
+    margin-top: 10px;
+}
+.abas{
+    display: inline-block;
+    color: #000;
+    text-align: center;
+    font-family: Staatliches;
+    font-size: 40px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.banner{
+    color: #FFF;
+font-family: Sriracha;
+font-size: 60px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.caixa{
+    background-color: #7ccd7f;
+    height: auto;
+}
+
+

@@ -43,7 +43,7 @@
     display: inline-block;
     color: #000;
     text-align: center;
-    font-family: Staatliches;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 40px;
 }
 a{
@@ -62,11 +62,24 @@ line-height: normal;
     background-color: #7ccd7f;
     height: auto;
 }
+.informacao{
+    font-size: 25px;
+}
 .caixa_botao{
     background-color: #5d9c60;
     height: auto;
 }
-p,h1,h2{
+p{
     display: inline-block;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+h1,h2{
+    display: inline-block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+}
+
+footer p{
+    font-size: 25px;
 }

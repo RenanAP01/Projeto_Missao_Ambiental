@@ -8,6 +8,7 @@
 }
 .logo {
  display: inline-block;
+ font-size: 60px;
 }
 .missao{
     display: inline-block;
@@ -21,6 +22,7 @@
     line-height: normal;
     vertical-align: middle;
 }
+
 .ambiental{
     display: inline-block;
     color: rgba(89, 80, 80, 0.83);

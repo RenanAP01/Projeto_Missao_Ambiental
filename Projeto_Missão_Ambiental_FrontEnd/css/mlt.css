@@ -20,19 +20,18 @@
     text-align: center;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     font-family: Spinnaker;
-    font-size: 60px;
+    font-size: 400%;
     font-style: normal;
-    font-weight: 400;
     line-height: normal;
     vertical-align: middle;
 }
+
 .ambiental{
     display: inline-block;
     color: rgba(89, 80, 80, 0.83);
     font-family: Spinnaker;
-    font-size: 60px;
+    font-size: 400%;
     font-style: normal;
-    font-weight: 400;
     line-height: normal;
     vertical-align: middle;    
 }
@@ -46,7 +45,7 @@
     display: inline-block;
     color: #000;
     text-align: center;
-    font-family: Staatliches;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 40px;
 }
 a{
@@ -56,20 +55,45 @@ a{
 .banner{
     color: #FFF;
 font-family: Sriracha;
-font-size: 60px;
+font-size:200%;
 font-style: normal;
-font-weight: 400;
+font-weight: 100%;
 line-height: normal;
+text-shadow: 1px 1px 2px black
 }
 .caixa{
     background-color: #7ccd7f;
     height: auto;
+
+}
+
+.informacao{
+    font-size: 30px;
+    line-break: auto;
+}
+h1.informacao{
+    display: inline-block;
+    font-size: 50px;
+}
+h2.informacao{
+    display: inline-block;
+    font-size: 50px;
 }
 .caixa_botao{
     background-color: #5d9c60;
     height: auto;
 }
-p,h1,h2{
+p{
     display: inline-block;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 100%;
+}
+h1,h2{
+    display: inline-block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 100%;
+}
+
+footer p{
+    font-size: 130%;
 }

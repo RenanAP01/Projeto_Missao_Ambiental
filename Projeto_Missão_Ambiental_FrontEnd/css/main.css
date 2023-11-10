@@ -6,33 +6,10 @@ body {
     ul {
        padding: 0px!important; 
     }
-    .menu-principal {
-    width: 100%;
-    background-color: #252323;
-    height: 60px;
+    .menu_principal {
+        height: 110px;
+        background: linear-gradient(180deg, #3CB441 0%, rgba(81, 193, 85, 0.00) 90%);
     }
-    main, .content {
-    margin: 0 auto;
-    width: 980px;
-    position: relative;
-    }
-    .logo2 {
-     float: left;
-     padding: 16px;
-     width: 70%;
-    }
-    .redes-sociais ul li {
-    margin-left: 25px;
-    display: inline-block;
-    float: left;
-    list-style: none;
-    }
-    .redes-sociais {
-    width: 25%;
-    float: right;
-    }
-
-
 .header-2 {
 background-color: #ffffff;
 width: 980px;

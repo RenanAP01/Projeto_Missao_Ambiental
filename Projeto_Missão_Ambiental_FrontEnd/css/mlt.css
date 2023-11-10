@@ -1,4 +1,9 @@
 
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+  }  
 .menu_principal {
     height: 110px;
     background: linear-gradient(180deg, #3CB441 0%, rgba(81, 193, 85, 0.00) 90%);

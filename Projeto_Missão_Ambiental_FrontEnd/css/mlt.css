@@ -50,9 +50,9 @@ a{
 .banner{
     color: #FFF;
 font-family: Sriracha;
-font-size:250%;
+font-size:200%;
 font-style: normal;
-font-weight: 400;
+font-weight: 100%;
 line-height: normal;
 text-shadow: 1px 1px 2px black
 }
@@ -64,6 +64,7 @@ text-shadow: 1px 1px 2px black
 
 .informacao{
     font-size: 30px;
+    line-break: auto;
 }
 h1.informacao{
     display: inline-block;

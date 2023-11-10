@@ -68,16 +68,12 @@ text-shadow: 1px 1px 2px black
 }
 
 .informacao{
-    font-size: 30px;
+    font-size: 150%;
     line-break: auto;
 }
-h1.informacao{
+.caixa h1.informacao,.caixa h2.informacao{
     display: inline-block;
-    font-size: 50px;
-}
-h2.informacao{
-    display: inline-block;
-    font-size: 50px;
+    font-size: 120%;
 }
 .caixa_botao{
     background-color: #5d9c60;
@@ -86,12 +82,12 @@ h2.informacao{
 p{
     display: inline-block;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 100%;
+    font-size: 90%;
 }
 h1,h2{
     display: inline-block;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 100%;
+    font-size: 80%;
 }
 
 footer p{

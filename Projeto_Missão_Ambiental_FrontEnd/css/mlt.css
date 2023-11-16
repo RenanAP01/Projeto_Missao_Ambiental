@@ -62,7 +62,11 @@ text-shadow: 1px 1px 2px black
 
 }
 
-.informacao{
+h1 .informacao, h2.informacao{
+    font-size: 90%;
+}
+
+p.informacao{
     font-size: 170%;
     line-break: auto;
 }

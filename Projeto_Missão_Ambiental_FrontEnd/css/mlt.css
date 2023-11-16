@@ -89,6 +89,12 @@ footer h1{
     font-size: 155%;
 }
 
+article.abelhas{
+    background-image: url(/Projeto_Missão_Ambiental_FrontEnd/img/abelha\ 1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
 
 
 

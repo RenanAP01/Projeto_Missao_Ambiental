@@ -95,7 +95,12 @@ article.abelhas{
     background-repeat: no-repeat;
     
 }
-
+article.Compostagem{
+    background-image: url(/Projeto_Missão_Ambiental_FrontEnd/img/50-650-compostagem\ 1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
 
 
 .google-map {

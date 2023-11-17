@@ -1,6 +1,6 @@
 
 .menu_principal {
-    height: 110px;
+    height: 8rem;
     background: linear-gradient(180deg, #3CB441 0%, rgba(81, 193, 85, 0.00) 90%);
 }
  .rodape{
@@ -15,7 +15,7 @@
     text-align: center;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     font-family: Spinnaker;
-    font-size: 400%;
+    font-size: 4rem;
     font-style: normal;
     line-height: normal;
     vertical-align: middle;
@@ -25,23 +25,17 @@
     display: inline-block;
     color: rgba(89, 80, 80, 0.83);
     font-family: Spinnaker;
-    font-size: 400%;
+    font-size: 4rem;
     font-style: normal;
     line-height: normal;
     vertical-align: middle;    
-}
-.redes_sociais {
-    display: inline-block;
-    height: 60px;
-    margin-top: 10px;
-    margin-top: 10px;
 }
 .abas{
     display: inline-block;
     color: #000;
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 40px;
+    font-size: 1rem;
 }
 a{
     text-decoration: none;
@@ -50,10 +44,8 @@ a{
 .banner{
     color: #FFF;
 font-family: Sriracha;
-font-size:200%;
+font-size: 3rem;
 font-style: normal;
-font-weight: 100%;
-line-height: normal;
 text-shadow: 1px 1px 2px black
 }
 .caixa{
@@ -63,14 +55,14 @@ text-shadow: 1px 1px 2px black
 }
 
 h1 .informacao{
-    font-size: 90%;
+    font-size: 2rem;
 }
 h2 .informacao{
-    font-size: 80%;
+    font-size: 2rem;
 }
 
 p.informacao{
-    font-size: 170%;
+    font-size: 2rem;
     line-break: auto;
 }
 .caixa_botao{
@@ -83,10 +75,10 @@ p,h1,h2{
 }
 
 footer p{
-    font-size: 120%;
+    font-size: 1.3rem;
 }
 footer h1{
-    font-size: 155%;
+    font-size: 1.8rem;
 }
 
 article.abelhas{

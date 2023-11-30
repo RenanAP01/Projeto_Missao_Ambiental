@@ -65,11 +65,38 @@ p.informacao{
     font-size: 2rem;
     line-break: auto;
 }
-.caixa_botao{
-    background-color: #5d9c60;
-    height: auto;
+button.informacao{
+    font-size: 2rem;
 }
-p,h1,h2{
+
+.btn-botao{
+    background-color: #5d9c60;
+}
+.btn-botao:hover {
+    background-color: #507a52;
+}
+
+.btn-caixa{
+    background-color: #7ccd7f;
+}
+.btn-caixa:hover {
+    background-color: #5d9c60;
+}
+
+.btn-menu{
+    background-color: #ffffff;
+}
+.btn-menu:hover{
+    background-color: #a7a7a7;
+}
+.btn-menu_ativado{
+    background-color: #a7a7a7;
+}
+.btn-menu_ativado:hover{
+    background-color: #a7a7a7;
+}
+
+p,h1,h2,button{
     display: inline-block;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }

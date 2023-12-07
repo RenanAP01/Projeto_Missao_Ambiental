@@ -61,7 +61,8 @@ h2 .informacao{
     font-size: 2rem;
 }
 
-p.informacao{
+
+ul.informacao,p.informacao{
     font-size: 2rem;
     line-break: auto;
 }
@@ -116,6 +117,12 @@ article.abelhas{
 }
 article.Compostagem{
     background-image: url(/Projeto_Missão_Ambiental_FrontEnd/img/50-650-compostagem\ 1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+article.coleta_da_agua{
+    background-image: url(/Projeto_Missão_Ambiental_FrontEnd/img/chuva\ 1.png);
     background-size: cover;
     background-repeat: no-repeat;
     

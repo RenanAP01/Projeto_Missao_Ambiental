@@ -1,11 +1,11 @@
 .popup {
     display: none;
     position: fixed;
-    bottom: 20px;
-    right: 20px;
+    bottom: 2rem;
+    right: 2rem;
     background-color: #fff;
-    border: 1px solid #ccc;
-    padding: 20px;
+    border: 0.1rem solid #ccc;
+    padding: 1rem;
     z-index: 1000;
   }
   
